@@ -1,0 +1,10 @@
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\bin\Debug\ClaseCSharp.exe.config
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\bin\Debug\ClaseCSharp.exe
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\bin\Debug\ClaseCSharp.pdb
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\obj\Debug\ClaseCSharp.csproj.AssemblyReference.cache
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\obj\Debug\ClaseCSharp.Form1.resources
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\obj\Debug\ClaseCSharp.Properties.Resources.resources
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\obj\Debug\ClaseCSharp.csproj.GenerateResource.cache
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\obj\Debug\ClaseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\obj\Debug\ClaseCSharp.exe
+C:\Users\Jhon Moreno\source\repos\ClaseCSharp\ClaseCSharp\obj\Debug\ClaseCSharp.pdb
